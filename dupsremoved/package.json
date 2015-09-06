@@ -1,0 +1,15 @@
+{
+  "name": "dupsremoved",
+  "version": "0.1.0",
+  "description": "array copy with duplicates removed",
+  "main": "unique.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tallglass9000/Data-Structures-and-Algorithms-I/tree/methods"
+  },
+  "author": "lady.blue2015@yahoo.com",
+  "license": "MIT"
+}
