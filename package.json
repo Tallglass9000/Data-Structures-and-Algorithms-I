@@ -1,0 +1,22 @@
+{
+  "name": "methodsonanarray",
+  "version": "0.1.0",
+  "description": "pop push shift unshift methods",
+  "main": "pop.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tallglass9000/Data-Structures-and-Algorithms-I.git"
+  },
+  "author": "lady.blue2015@yahoo.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tallglass9000/Data-Structures-and-Algorithms-I/issues"
+  },
+  "homepage": "https://github.com/Tallglass9000/Data-Structures-and-Algorithms-I#readme"
+}
